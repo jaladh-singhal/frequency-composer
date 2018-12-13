@@ -32,7 +32,7 @@ So run this application & get ready for testing your ears! :wink:
 > The thrill should not be at the cost of physical damage! :sweat_smile:
   
 ~ To avoid piercing of your eardrums by high frequency sound beeps, reduce the volume of your speakers according to your tolerance.
-> The Music Synthesizers are quite expensive! :stuck_out_tongue_winking_eye:
+> The Music Synthesizers in market are quite expensive! :stuck_out_tongue_winking_eye:
   
 ~ Original Music is made by composition of various frequencies at the same time, along with amplitude fluctuations and other factors. So this application obviously has limitations for Music Composition!
   
